@@ -1,3 +1,3 @@
 #!/bin/sh
 # This is a comment!
-echo Hello World  - Master        # This is a comment, too!
+echo Hello World  - Testing        # This is a comment, too!
